@@ -1,0 +1,63 @@
+Test Point: 3,7
+
+Distance1:3.00   class:1.00
+Distance2:3.00   class:2.00
+Distance3:3.16   class:1.00
+Predicted Class 1.00
+
+Test Point: 7,7
+
+Distance1:0.00   class:1.00
+Distance2:1.00   class:1.00
+Distance3:1.00   class:1.00
+Predicted Class 1.00
+
+Test Point: 4,3
+
+Distance1:0.00   class:2.00
+Distance2:1.00   class:2.00
+Distance3:1.00   class:2.00
+Predicted Class 2.00
+
+Test Point: 2,8
+
+Distance1:4.12   class:1.00
+Distance2:4.12   class:2.00
+Distance3:4.12   class:2.00
+Predicted Class 2.00
+
+Test Point: 3,5
+
+Distance1:1.00   class:2.00
+Distance2:1.41   class:2.00
+Distance3:2.00   class:2.00
+Predicted Class 2.00
+
+Test Point: 1,2
+
+Distance1:1.41   class:2.00
+Distance2:2.00   class:2.00
+Distance3:2.00   class:2.00
+Predicted Class 2.00
+
+Test Point: 4,8
+
+Distance1:2.24   class:1.00
+Distance2:2.83   class:1.00
+Distance3:3.16   class:1.00
+Predicted Class 1.00
+
+Test Point: 8,3
+
+Distance1:1.41   class:1.00
+Distance2:2.24   class:1.00
+Distance3:2.24   class:1.00
+Predicted Class 1.00
+
+Test Point: 8,4
+
+Distance1:1.00   class:1.00
+Distance2:1.41   class:1.00
+Distance3:2.00   class:1.00
+Predicted Class 1.00
+
